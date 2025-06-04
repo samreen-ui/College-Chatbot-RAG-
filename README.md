@@ -41,5 +41,5 @@ A smart AI chatbot for the [Keshav Memorial Institute of Technology (KMIT)](http
 
 ---
 
-## 🗂️ Project Structure
+
 
