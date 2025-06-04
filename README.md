@@ -1,4 +1,4 @@
-# 🤖 KMIT College ChatBot (Gemini + Flask + Supabase + RAG)
+# 🤖 KMIT College ChatBot (Gemini API + Flask + Supabase + RAG)
 
 A smart AI chatbot for the [Keshav Memorial Institute of Technology (KMIT)](https://kmit.in), built to help students, faculty, and visitors instantly access important information, events, and resources via a floating assistant on the website.
 
