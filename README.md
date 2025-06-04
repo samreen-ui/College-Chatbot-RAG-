@@ -29,9 +29,17 @@ A smart AI chatbot for the [Keshav Memorial Institute of Technology (KMIT)](http
 | 🖥️ Frontend   | Vite + TypeScript                  |
 
 ---
+## 🖼️ Chatbot Preview
 
+Here’s how the chatbot looks when embedded on the KMIT website:
+
+
+![Screenshot 2025-06-04 190815](https://github.com/user-attachments/assets/58e650f2-15b7-463a-83bc-4d5b167298a7)
+
+![Screenshot 2025-06-04 190823](https://github.com/user-attachments/assets/8c2d7e99-e4e6-4916-bb78-f02681c40e78)
+
+---
 ## 🧠 How It Works
-
 1. User submits a question through the floating chatbot.
 2. Query is normalized and embedded via Sentence Transformers.
 3. FAISS finds the most relevant context from JSON data.
